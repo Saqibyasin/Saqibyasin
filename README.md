@@ -1,4 +1,4 @@
-- 👋 assalam o alikum, I’m @kifayatyasin
+- 👋 Assalam o alikum, I’m @kifayatyasin
 - 👀 I’m interested in computer science engineering
 - 🌱 I’m currently learning web development
 
